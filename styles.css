@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.img{
+	container div width: 200px;
+	background color:purple;
+	left side border color:green;
+	padding on all sides in div:5 pixels;
+	text font size:20 pixels;
+	heading color:white;
+	
+}
