@@ -1,11 +1,19 @@
 
 /* Your CSS Code here. */
-.img{
-	container div width: 200px;
-	background color:purple;
-	left side border color:green;
-	padding on all sides in div:5 pixels;
-	text font size:20 pixels;
-	heading color:white;
-	
+.container {
+  width: 200px;
+  background-color: purple;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.left-side {
+  border-left: 5px solid green;
+  padding-left: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  color: white;
+  margin-top: 0;
 }
